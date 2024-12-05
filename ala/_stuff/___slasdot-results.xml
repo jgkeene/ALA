@@ -1,0 +1,224 @@
+SLASHDOT_URL:  http://rss.slashdot.org/Slashdot/slashdotDevelopers 
+
+{'author': 'EditorDavid',
+ 'author_detail': {'name': 'EditorDavid'},
+ 'authors': [{}],
+ 'feedburner_origlink': 'https://developers.slashdot.org/story/17/09/23/0611201/tetris-recreated-in-conways-game-of-life?utm_source=rss1.0mainlinkanon&utm_medium=feed',
+ 'id': 'https://developers.slashdot.org/story/17/09/23/0611201/tetris-recreated-in-conways-game-of-life?utm_source=rss1.0mainlinkanon&utm_medium=feed',
+ 'link': 'http://rss.slashdot.org/~r/Slashdot/slashdotDevelopers/~3/as4aZG3HsXY/tetris-recreated-in-conways-game-of-life',
+ 'links': [{'href': 'http://rss.slashdot.org/~r/Slashdot/slashdotDevelopers/~3/as4aZG3HsXY/tetris-recreated-in-conways-game-of-life',
+            'rel': 'alternate',
+            'type': 'text/html'}],
+ 'slash_comments': '87',
+ 'slash_department': 'tinkering-with-tetrominoes',
+ 'slash_hit_parade': '87,81,57,48,12,5,2',
+ 'slash_section': 'developers',
+ 'summary': 'In 1970 mathematician John Conway created rules for the "Game of '
+            'Life," a now famous "zero-player game" where a grid of cells '
+            "evolves (following Conway's rules) from an initial state proposed "
+            'by the player. In 2013 someone challenged readers of '
+            'StackExchange\'s "Programming Puzzles &amp; Code Golf" section to '
+            'devise an initial state "that will allow for the playing of a '
+            'game of Tetris."\n'
+            ' \n'
+            ' An anonymous Slashdot reader reports that "This challenge sat '
+            'around, gathering upvotes but no answer, for four years. Then, it '
+            'was answered." Citing the work of seven contributors, a massive '
+            'six-part response says their solution took one and a half years '
+            'to create, and "began as a quest but ended as an odyssey." The '
+            'team created their own assembly language, known as QFTASM (Quest '
+            "for Tetris Assembly) for use within Conway's mathematical "
+            'universe, and then also designed their own processor '
+            'architecture, and eventually even a higher-level language that '
+            'they named COGOL. Their StackExchange response includes a link to '
+            'all of their code on GitHub, as well as to a page where you can '
+            'run the code online.\n'
+            ' \n'
+            'One StackExchange reader hailed the achievement as "the single '
+            "greatest thing I've ever scrolled through while understanding "
+            'very little."<p><div class="share_submission">\n'
+            '<a class="slashpop" '
+            'href="http://twitter.com/home?status=\'Tetris\'+Recreated+In+Conway\'s+\'Game+of+Life\'%3A+http%3A%2F%2Fbit.ly%2F2yyppHG"><img '
+            'src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>\n'
+            '<a class="slashpop" '
+            'href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F17%2F09%2F23%2F0611201%2Ftetris-recreated-in-conways-game-of-life%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"><img '
+            'src="https://a.fsdn.com/sd/facebook_icon_large.png" /></a>\n'
+            '\n'
+            '<a class="nobg" '
+            'href="http://plus.google.com/share?url=https://developers.slashdot.org/story/17/09/23/0611201/tetris-recreated-in-conways-game-of-life?utm_source=slashdot&amp;utm_medium=googleplus"><img '
+            'alt="Share on Google+" '
+            'src="https://www.gstatic.com/images/icons/gplus-16.png" /></a>\n'
+            '\n'
+            '\n'
+            '\n'
+            '</div></p><p><a '
+            'href="https://developers.slashdot.org/story/17/09/23/0611201/tetris-recreated-in-conways-game-of-life?utm_source=rss1.0moreanon&amp;utm_medium=feed">Read '
+            'more of this story</a> at Slashdot.</p><img alt="" height="1" '
+            'src="http://feeds.feedburner.com/~r/Slashdot/slashdotDevelopers/~4/as4aZG3HsXY" '
+            'width="1" />',
+ 'summary_detail': {'base': 'http://rss.slashdot.org/Slashdot/slashdotDevelopers',
+                    'language': None,
+                    'type': 'text/html',
+                    'value': 'In 1970 mathematician John Conway created rules '
+                             'for the "Game of Life," a now famous '
+                             '"zero-player game" where a grid of cells evolves '
+                             "(following Conway's rules) from an initial state "
+                             'proposed by the player. In 2013 someone '
+                             "challenged readers of StackExchange's "
+                             '"Programming Puzzles &amp; Code Golf" section to '
+                             'devise an initial state "that will allow for the '
+                             'playing of a game of Tetris."\n'
+                             ' \n'
+                             ' An anonymous Slashdot reader reports that "This '
+                             'challenge sat around, gathering upvotes but no '
+                             'answer, for four years. Then, it was answered." '
+                             'Citing the work of seven contributors, a massive '
+                             'six-part response says their solution took one '
+                             'and a half years to create, and "began as a '
+                             'quest but ended as an odyssey." The team created '
+                             'their own assembly language, known as QFTASM '
+                             '(Quest for Tetris Assembly) for use within '
+                             "Conway's mathematical universe, and then also "
+                             'designed their own processor architecture, and '
+                             'eventually even a higher-level language that '
+                             'they named COGOL. Their StackExchange response '
+                             'includes a link to all of their code on GitHub, '
+                             'as well as to a page where you can run the code '
+                             'online.\n'
+                             ' \n'
+                             'One StackExchange reader hailed the achievement '
+                             'as "the single greatest thing I\'ve ever '
+                             'scrolled through while understanding very '
+                             'little."<p><div class="share_submission">\n'
+                             '<a class="slashpop" '
+                             'href="http://twitter.com/home?status=\'Tetris\'+Recreated+In+Conway\'s+\'Game+of+Life\'%3A+http%3A%2F%2Fbit.ly%2F2yyppHG"><img '
+                             'src="https://a.fsdn.com/sd/twitter_icon_large.png" '
+                             '/></a>\n'
+                             '<a class="slashpop" '
+                             'href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F17%2F09%2F23%2F0611201%2Ftetris-recreated-in-conways-game-of-life%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"><img '
+                             'src="https://a.fsdn.com/sd/facebook_icon_large.png" '
+                             '/></a>\n'
+                             '\n'
+                             '<a class="nobg" '
+                             'href="http://plus.google.com/share?url=https://developers.slashdot.org/story/17/09/23/0611201/tetris-recreated-in-conways-game-of-life?utm_source=slashdot&amp;utm_medium=googleplus"><img '
+                             'alt="Share on Google+" '
+                             'src="https://www.gstatic.com/images/icons/gplus-16.png" '
+                             '/></a>\n'
+                             '\n'
+                             '\n'
+                             '\n'
+                             '</div></p><p><a '
+                             'href="https://developers.slashdot.org/story/17/09/23/0611201/tetris-recreated-in-conways-game-of-life?utm_source=rss1.0moreanon&amp;utm_medium=feed">Read '
+                             'more of this story</a> at Slashdot.</p><img '
+                             'alt="" height="1" '
+                             'src="http://feeds.feedburner.com/~r/Slashdot/slashdotDevelopers/~4/as4aZG3HsXY" '
+                             'width="1" />'},
+ 'tags': [{'label': None, 'scheme': None, 'term': 'programming'}],
+ 'title': "'Tetris' Recreated In Conway's 'Game of Life'",
+ 'title_detail': {'base': 'http://rss.slashdot.org/Slashdot/slashdotDevelopers',
+                  'language': None,
+                  'type': 'text/plain',
+                  'value': "'Tetris' Recreated In Conway's 'Game of Life'"},
+ 'updated': '2017-09-23T23:29:00+00:00',
+ 'updated_parsed': time.struct_time(tm_year=2017, tm_mon=9, tm_mday=23, tm_hour=23, tm_min=29, tm_sec=0, tm_wday=5, tm_yday=266, tm_isdst=0)}
+
+
+{'author': 'EditorDavid',
+ 'author_detail': {'name': 'EditorDavid'},
+ 'authors': [{}],
+ 'feedburner_origlink': 'https://developers.slashdot.org/story/17/09/23/2043235/do-strongly-typed-languages-reduce-bugs?utm_source=rss1.0mainlinkanon&utm_medium=feed',
+ 'id': 'https://developers.slashdot.org/story/17/09/23/2043235/do-strongly-typed-languages-reduce-bugs?utm_source=rss1.0mainlinkanon&utm_medium=feed',
+ 'link': 'http://rss.slashdot.org/~r/Slashdot/slashdotDevelopers/~3/rGz-BFB5cyQ/do-strongly-typed-languages-reduce-bugs',
+ 'links': [{'href': 'http://rss.slashdot.org/~r/Slashdot/slashdotDevelopers/~3/rGz-BFB5cyQ/do-strongly-typed-languages-reduce-bugs',
+            'rel': 'alternate',
+            'type': 'text/html'}],
+ 'slash_comments': '455',
+ 'slash_department': 'dynamic-discussions',
+ 'slash_hit_parade': '455,446,305,224,72,38,28',
+ 'slash_section': 'developers',
+ 'summary': '"Static vs dynamic typing is always one of those topics that '
+            'attracts passionately held positions," writes the Morning Paper '
+            '-- reporting on an "encouraging" study that attempted to '
+            'empirically evaluate the efficacy of statically-typed systems on '
+            'mature, real-world code bases. The study was conducted by '
+            'Christian Bird at Microsoft\'s "Research in Software Engineering" '
+            'group with two researchers from University College London. '
+            'Long-time Slashdot reader phantomfive writes:\n'
+            'This study looked at bugs found in open source Javascript code. '
+            'Looking through the commit history, they enumerated the bugs that '
+            'would have been caught if a more strongly typed language (like '
+            'Typescript) had been used. They found that a strongly typed '
+            'language would have reduced bugs by 15%. Does this make you want '
+            'to avoid Python?<p><div class="share_submission">\n'
+            '<a class="slashpop" '
+            'href="http://twitter.com/home?status=Do+Strongly+Typed+Languages+Reduce+Bugs%3F%3A+http%3A%2F%2Fbit.ly%2F2yyvGDe"><img '
+            'src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>\n'
+            '<a class="slashpop" '
+            'href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F17%2F09%2F23%2F2043235%2Fdo-strongly-typed-languages-reduce-bugs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"><img '
+            'src="https://a.fsdn.com/sd/facebook_icon_large.png" /></a>\n'
+            '\n'
+            '<a class="nobg" '
+            'href="http://plus.google.com/share?url=https://developers.slashdot.org/story/17/09/23/2043235/do-strongly-typed-languages-reduce-bugs?utm_source=slashdot&amp;utm_medium=googleplus"><img '
+            'alt="Share on Google+" '
+            'src="https://www.gstatic.com/images/icons/gplus-16.png" /></a>\n'
+            '\n'
+            '\n'
+            '\n'
+            '</div></p><p><a '
+            'href="https://developers.slashdot.org/story/17/09/23/2043235/do-strongly-typed-languages-reduce-bugs?utm_source=rss1.0moreanon&amp;utm_medium=feed">Read '
+            'more of this story</a> at Slashdot.</p><img alt="" height="1" '
+            'src="http://feeds.feedburner.com/~r/Slashdot/slashdotDevelopers/~4/rGz-BFB5cyQ" '
+            'width="1" />',
+ 'summary_detail': {'base': 'http://rss.slashdot.org/Slashdot/slashdotDevelopers',
+                    'language': None,
+                    'type': 'text/html',
+                    'value': '"Static vs dynamic typing is always one of those '
+                             'topics that attracts passionately held '
+                             'positions," writes the Morning Paper -- '
+                             'reporting on an "encouraging" study that '
+                             'attempted to empirically evaluate the efficacy '
+                             'of statically-typed systems on mature, '
+                             'real-world code bases. The study was conducted '
+                             'by Christian Bird at Microsoft\'s "Research in '
+                             'Software Engineering" group with two researchers '
+                             'from University College London. Long-time '
+                             'Slashdot reader phantomfive writes:\n'
+                             'This study looked at bugs found in open source '
+                             'Javascript code. Looking through the commit '
+                             'history, they enumerated the bugs that would '
+                             'have been caught if a more strongly typed '
+                             'language (like Typescript) had been used. They '
+                             'found that a strongly typed language would have '
+                             'reduced bugs by 15%. Does this make you want to '
+                             'avoid Python?<p><div class="share_submission">\n'
+                             '<a class="slashpop" '
+                             'href="http://twitter.com/home?status=Do+Strongly+Typed+Languages+Reduce+Bugs%3F%3A+http%3A%2F%2Fbit.ly%2F2yyvGDe"><img '
+                             'src="https://a.fsdn.com/sd/twitter_icon_large.png" '
+                             '/></a>\n'
+                             '<a class="slashpop" '
+                             'href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F17%2F09%2F23%2F2043235%2Fdo-strongly-typed-languages-reduce-bugs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"><img '
+                             'src="https://a.fsdn.com/sd/facebook_icon_large.png" '
+                             '/></a>\n'
+                             '\n'
+                             '<a class="nobg" '
+                             'href="http://plus.google.com/share?url=https://developers.slashdot.org/story/17/09/23/2043235/do-strongly-typed-languages-reduce-bugs?utm_source=slashdot&amp;utm_medium=googleplus"><img '
+                             'alt="Share on Google+" '
+                             'src="https://www.gstatic.com/images/icons/gplus-16.png" '
+                             '/></a>\n'
+                             '\n'
+                             '\n'
+                             '\n'
+                             '</div></p><p><a '
+                             'href="https://developers.slashdot.org/story/17/09/23/2043235/do-strongly-typed-languages-reduce-bugs?utm_source=rss1.0moreanon&amp;utm_medium=feed">Read '
+                             'more of this story</a> at Slashdot.</p><img '
+                             'alt="" height="1" '
+                             'src="http://feeds.feedburner.com/~r/Slashdot/slashdotDevelopers/~4/rGz-BFB5cyQ" '
+                             'width="1" />'},
+ 'tags': [{'label': None, 'scheme': None, 'term': 'programming'}],
+ 'title': 'Do Strongly Typed Languages Reduce Bugs?',
+ 'title_detail': {'base': 'http://rss.slashdot.org/Slashdot/slashdotDevelopers',
+                  'language': None,
+                  'type': 'text/plain',
+                  'value': 'Do Strongly Typed Languages Reduce Bugs?'},
+ 'updated': '2017-09-23T21:19:00+00:00',
+ 'updated_parsed': time.struct_time(tm_year=2017, tm_mon=9, tm_mday=23, tm_hour=21, tm_min=19, tm_sec=0, tm_wday=5, tm_yday=266, tm_isdst=0)}

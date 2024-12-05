@@ -1,0 +1,24 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+
+
+
+<h1>Slashdot</h1>
+<h3>Total Records: {{ slashdot_list|length }}</h3>
+
+  {% if slashdot_list %}
+    <ul>
+      {% for slashdot in slashdot_list %}
+      <li><a href={{ slashdot.url }}>{{ slashdot.title }}</a>
+              ({{ slashdot.num_comments }}),
+              ({{ slashdot.date}}),
+              ({{ slashdot.author}}) </li>
+      {% endfor %}
+
+    </ul>
+    
+    {% endif %}
+
+{% endblock %}
+           

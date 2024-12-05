@@ -1,0 +1,157 @@
+HACKERNEWS_URL:  https://hnrss.org/newest?comments=100&count=100 
+
+{
+ 'author': 'KasianFranks',
+
+ 'author_detail': {'name': 'KasianFranks'},
+
+ 'authors': [{}],
+
+ 'comments': 'https://news.ycombinator.com/item?id=15361527',
+
+ 'guidislink': False,
+
+ 'id': 'https://news.ycombinator.com/item?id=15361527',
+ 
+ 'link': 'https://techcrunch.com/2017/09/28/fidelity-ceo-abigail-johnson-says-the-company-is-mining-cryptocurrencies/',
+ 
+ 'links': [
+                {
+                   'href': 'https://techcrunch.com/2017/09/28/fidelity-ceo-abigail-johnson-says-the-company-is-mining-cryptocurrencies/',
+                   'rel': 'alternate',
+                   'type': 'text/html'
+                }
+          ],
+ 
+ 'published': 'Thu, 28 Sep 2017 23:07:07 +0000',
+ 
+ 'published_parsed': time.struct_time(tm_year=2017, tm_mon=9, tm_mday=28, tm_hour=23, tm_min=7, tm_sec=7, tm_wday=3, tm_yday=271, tm_isdst=0),
+ 
+ 'summary': 
+                <p>Article URL: <a href="https://techcrunch.com/2017/09/28/fidelity-ceo-abigail-johnson-says-the-company-is-mining-cryptocurrencies/">
+                    https://techcrunch.com/2017/09/28/fidelity-ceo-abigail-johnson-says-the-company-is-mining-cryptocurrencies/
+                    </a>
+                </p>
+                            
+                <p>Comments URL: <a href="https://news.ycombinator.com/item?id=15361527">
+                                        https://news.ycombinator.com/item?id=15361527
+                                </a>
+                </p>
+                        
+                <p>Points: 170
+                </p>
+                
+                <p># Comments: 116</p>,
+ 
+ 'summary_detail': {
+                      'base': 'https://hnrss.org/newest?comments=100&count=100',
+                      'language': None,
+                      'type': 'text/html',
+                      'value': '<p>Article URL: <a href="https://techcrunch.com/2017/09/28/fidelity-ceo-abigail-johnson-says-the-company-is-mining-cryptocurrencies/">
+                                                      https://techcrunch.com/2017/09/28/fidelity-ceo-abigail-johnson-says-the-company-is-mining-cryptocurrencies/
+                                              </a>
+                              </p>
+                              
+                              <p>Comments URL: <a href="https://news.ycombinator.com/item?id=15361527">
+                                                      https://news.ycombinator.com/item?id=15361527
+                                              </a>
+                              </p>
+                              
+                              <p>Points: 170</p>
+                              
+                              <p># Comments: 116</p>'
+                   },
+ 
+ 'title': 'Fidelity CEO Abigail Johnson says the company is mining ' 'cryptocurrencies',
+ 
+ 'title_detail': {
+                   'base': 'https://hnrss.org/newest?comments=100&count=100',
+                   'language': None,
+                   'type': 'text/plain',
+                   'value': 'Fidelity CEO Abigail Johnson says the company is ' 'mining cryptocurrencies'}
+                }
+
+                
+=========================================================================================================================================================
+
+
+{'author': 'zonotope',
+ 'author_detail': {'name': 'zonotope'}
+ 'authors': [{}],
+ 'comments': 'https://news.ycombinator.com/item?id=15361197',
+ 'guidislink': False,
+ 'id': 'https://news.ycombinator.com/item?id=15361197',
+ 'link': 'https://www.newyorker.com/culture/rabbit-holes/the-repressive-authoritarian-soul-of-thomas-the-tank-engine-and-friends/',
+ 'links': [{'href': 'https://www.newyorker.com/culture/rabbit-holes/the-repressive-authoritarian-soul-of-thomas-the-tank-engine-and-friends/',
+            'rel': 'alternate',
+            'type': 'text/html'}],
+ 'published': 'Thu, 28 Sep 2017 22:13:03 +0000',
+ 'published_parsed': time.struct_time(tm_year=2017, tm_mon=9, tm_mday=28, tm_hour=22, tm_min=13, tm_sec=3, tm_wday=3, tm_yday=271, tm_isdst=0),
+ 'summary': '<p>Article URL: <a '
+            'href="https://www.newyorker.com/culture/rabbit-holes/the-repressive-authoritarian-soul-of-thomas-the-tank-engine-and-friends/">https://www.newyorker.com/culture/rabbit-holes/the-repressive-authoritarian-soul-of-thomas-the-tank-engine-and-friends/</a></p><p>Comments '
+            'URL: <a '
+            'href="https://news.ycombinator.com/item?id=15361197">https://news.ycombinator.com/item?id=15361197</a></p><p>Points: '
+            '161</p><p># Comments: 165</p>',
+ 'summary_detail': {'base': 'https://hnrss.org/newest?comments=100&count=100',
+                    'language': None,
+                    'type': 'text/html',
+                    'value': '<p>Article URL: <a '
+                             'href="https://www.newyorker.com/culture/rabbit-holes/the-repressive-authoritarian-soul-of-thomas-the-tank-engine-and-friends/">https://www.newyorker.com/culture/rabbit-holes/the-repressive-authoritarian-soul-of-thomas-the-tank-engine-and-friends/</a></p><p>Comments '
+                             'URL: <a '
+                             'href="https://news.ycombinator.com/item?id=15361197">https://news.ycombinator.com/item?id=15361197</a></p><p>Points: '
+                             '161</p><p># Comments: 165</p>'},
+
+ 'title': 'The Repressive, Authoritarian Soul of “Thomas the Tank Engine and '
+           'Friends”',
+ 
+ 'title_detail': {'base': 'https://hnrss.org/newest?comments=100&count=100',
+                  'language': None,
+                  'type': 'text/plain',
+                  'value': 'The Repressive, Authoritarian Soul of “Thomas the '
+                           'Tank Engine and Friends”'}}
+
+
+{'author': 'tanrax',
+ 'author_detail': {'name': 'tanrax'},
+ 'authors': [{}],
+ 'comments': 'https://news.ycombinator.com/item?id=15360509',
+ 'guidislink': False,
+ 'id': 'https://news.ycombinator.com/item?id=15360509',
+ 'link': 'https://micro-editor.github.io/index.html',
+ 'links': [{'href': 'https://micro-editor.github.io/index.html',
+            'rel': 'alternate',
+            'type': 'text/html'}],
+ 'published': 'Thu, 28 Sep 2017 20:37:11 +0000',
+ 'published_parsed': time.struct_time(tm_year=2017, tm_mon=9, tm_mday=28, tm_hour=20, tm_min=37, tm_sec=11, tm_wday=3, tm_yday=271, tm_isdst=0),
+ 'summary': '<p>Article URL: <a '
+            'href="https://micro-editor.github.io/index.html">https://micro-editor.github.io/index.html</a></p><p>Comments '
+            'URL: <a '
+            'href="https://news.ycombinator.com/item?id=15360509">https://news.ycombinator.com/item?id=15360509</a></p><p>Points: '
+            '285</p><p># Comments: 125</p>\n'
+            '<hr /><p>hnrss is a labor of love, but if the project has made '
+            'your job\n'
+            'or hobby project easier and you want to show some gratitude, <a '
+            'href="https://donate.hnrss.org/">donations are very much\n'
+            'appreciated</a>. PayPal and Bitcoin both accepted. Thanks!</p>',
+ 'summary_detail': {'base': 'https://hnrss.org/newest?comments=100&count=100',
+                    'language': None,
+                    'type': 'text/html',
+                    'value': '<p>Article URL: <a '
+                             'href="https://micro-editor.github.io/index.html">https://micro-editor.github.io/index.html</a></p><p>Comments '
+                             'URL: <a '
+                             'href="https://news.ycombinator.com/item?id=15360509">https://news.ycombinator.com/item?id=15360509</a></p><p>Points: '
+                             '285</p><p># Comments: 125</p>\n'
+                             '<hr /><p>hnrss is a labor of love, but if the '
+                             'project has made your job\n'
+                             'or hobby project easier and you want to show '
+                             'some gratitude, <a '
+                             'href="https://donate.hnrss.org/">donations are '
+                             'very much\n'
+                             'appreciated</a>. PayPal and Bitcoin both '
+                             'accepted. Thanks!</p>'},
+ 'title': 'Modern terminal-based text editor',
+ 'title_detail': {'base': 'https://hnrss.org/newest?comments=100&count=100',
+                  'language': None,
+                  'type': 'text/plain',
+                  'value': 'Modern terminal-based text editor'}}
+

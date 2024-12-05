@@ -1,0 +1,24 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+
+
+
+<h1>Hackernews</h1>
+<h3>Total Records: {{ hackernews_list|length }}</h3>
+
+  {% if hackernews_list %}
+    <ul>
+      {% for hackernews in hackernews_list %}
+      <li><a href={{ hackernews.url }}>{{ hackernews.title }}</a>
+              ({{ hackernews.num_comments }}),
+              ({{ hackernews.date}}),
+              ({{ hackernews.author}}) </li>
+      {% endfor %}
+
+    </ul>
+    
+    {% endif %}
+
+{% endblock %}
+           

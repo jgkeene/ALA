@@ -1,0 +1,32 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+
+
+
+<h1>Reddit</h1>
+<h3>Total Records: {{ reddit_list|length }}</h3>
+
+  {% if reddit_list %}
+    <ul>
+      
+      {% for reddit in reddit_list %}
+      <li><a href={{ reddit.url }}>{{ reddit.title }}</a>
+              ({{ reddit.num_comments }})
+              ({{ reddit.date}}),
+              ({{ reddit.author}}) </li>
+      {% endfor %}
+
+
+    </ul>
+      
+   
+    {{ dates }}
+
+    {% endif %}
+
+{% endblock %}
+
+
+
+           
