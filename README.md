@@ -1,5 +1,7 @@
-# ALA
-Python Web Scraping Project
+# ALA (A Little Aggregator)
+
+My Python web scraping project
+
 
 ## TODO:
 
